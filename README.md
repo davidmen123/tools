@@ -1,5 +1,6 @@
 因为yuque很多的链接放不上去，经常被封，所以只能搬家到GitHub上来。今天给大家整理一下我常用的一些币圈工具，有的网站如果登陆不了的，可能就需科学上网才能登陆，工具箱之前分一和二，分别为币圈常用工具和DeFi/NFT常用工具，近期将两者合并在一起了。
 
+
 **### 币圈常用的基础工具**
 
 一：常用交易所
@@ -179,15 +180,15 @@ https://bscproject.org/
 
 四：NFT综合查询工具
 
--关于NFT最新上的项目以及各个项目的参数该网站一应俱全，以下两个全是关于NFT最新产品上线的工具，对于NFT收藏爱好者，必须收藏的，查询地址如下：
+- 关于NFT最新上的项目以及各个项目的参数该网站一应俱全，以下两个全是关于NFT最新产品上线的工具，对于NFT收藏爱好者，必须收藏的，查询地址如下：
 
 https://nonfungible.com/
 https://cryptoslam.io/
 
--顶级加密艺术品NFT售卖网站
+- 顶级加密艺术品NFT售卖网站
 https://cryptoart.ai/
 
--NFT市场数据统计网站：该网站可以看出当前，哪一款NFT销售量最好，最火爆
+- NFT市场数据统计网站：该网站可以看出当前，哪一款NFT销售量最好，最火爆
 https://www.nft-stats.com/
 
 五：defi各类平台资产实时排名和指数工具
@@ -203,14 +204,13 @@ https://www.nft-stats.com/
 - 资产净流入净流出等参数链上工具：https://www.viewbase.com/
       （经数据监测以太坊的比较准确，其他的数据不太准确）
 
-- DeFi 各大平台常见产品收益率实时查询网站：www.apy123.com
+- DeFi各大平台常见产品收益率实时查询网站：www.apy123.com
 
 - DeFi 挖矿管理器：vfat.tools
 
 - 无常损失计算器：croco.finance
 
 - Apy与apr之间的换算：www.aprtoapy.com/
-
 
 六：以太坊虚拟机网络配置工具
 
@@ -253,6 +253,7 @@ https://docs.google.com/spreadsheets/d/1X7aKw7XEGoGw5AX1WnX6Rs-T8BXMDg7LvC5zSHR5
 
 十四：海外推特主的空投打窝名单:
 https://docs.google.com/spreadsheets/d/1f_9c8P28dXG5K6DXlHGeTQUww5K8Ft6GgCKYZ8scjb0/htmlview?pru=AAABfJIx-ss*B627XN3MLfY0NBGMf9ZfpA#
+
 
 **### 其他工具和相关网址推荐**
 
